@@ -63,6 +63,19 @@ Last Updated on \today % Last Updated text
 \vspace{-5pt} % Reduce whitespace after the rule slightly
 }
 
+\newcommand{\smallnamesection}[2]{ % Defines the command for the main heading
+  \centering{ % Center the name
+    \fontsize{40pt}{60pt} % Font size
+    \fontspec[Path = fonts/lato/]{Lato-Hai}\selectfont #1 % First name font
+    \fontspec[Path = fonts/lato/]{Lato-Lig}\selectfont #2 % Last name font
+  }
+  \centering{ % Center the contact information
+    \color{headings} % Use the headings color
+    \noindent\makebox[\linewidth]{\color{headings}\rule{\paperwidth}{0.4pt}} % Horizontal rule
+    \vspace{-20pt} % Reduce whitespace after the rule slightly
+  }
+}
+
 %----------------------------------------------------------------------------------------
 %	SECTION TITLE STYLING AND SPACING
 %----------------------------------------------------------------------------------------
@@ -93,5 +106,14 @@ Last Updated on \today % Last Updated text
 %----------------------------------------------------------------------------------------
 
 \newenvironment{tightitemize} % Defines the tightitemize environment which modifies the itemize environment to be more compact
-{\vspace{-\topsep}\begin{itemize}\itemsep1pt \parskip0pt \parsep0pt}
-{\end{itemize}\vspace{-\topsep}}
+{
+  \vspace{-\topsep}
+  \begin{itemize}
+    \setlength{\leftmargin}{-50pt}
+  \setlength{\itemsep}{0pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}
+}
+{
+  \end{itemize}\vspace{-\topsep}
+}

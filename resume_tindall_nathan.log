@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  16 JUL 2016 06:45
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 JUL 2016 09:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -770,15 +770,15 @@ isodate: babel.sty, (n)german.sty have not been loaded
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(35.56593pt, 543.16313pt, 35.56593pt)
-* v-part:(T,H,B)=(34.14322pt, 726.68355pt, 34.14322pt)
+* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 738.0645pt, 28.45274pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=543.16313pt
-* \textheight=726.68355pt
-* \oddsidemargin=-36.70406pt
-* \evensidemargin=-36.70406pt
-* \topmargin=-75.12677pt
+* \textwidth=557.38951pt
+* \textheight=738.0645pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -820,7 +820,41 @@ isodate: babel.sty, (n)german.sty have not been loaded
 . <->"[fonts/lato/Lato-Lig]/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-\g__fontspec_family_Raleway-Medium_int=\count150
+
+LaTeX Font Warning: Font shape `EU1/HelveticaLight(0)/m/sc' undefined
+(Font)              using `EU1/HelveticaLight(0)/m/n' instead on input line 43.
+
+
+
+LaTeX Font Warning: Font shape `EU1/Lato-Lig(0)/m/sc' undefined
+(Font)              using `EU1/Lato-Lig(0)/m/n' instead on input line 43.
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+)
+\g__fontspec_family_Lato-Bol_int=\count150
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options
+. [Mapping=tex-text,Path = fonts/lato/].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[fonts/lato/Lato-Bol]/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+
+
+LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/m/sc' undefined
+(Font)              using `EU1/Lato-Bol(0)/m/n' instead on input line 57.
+
+
+LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
+(Font)              using `EU1/Lato-Bol(0)/m/n' instead on input line 59.
+
+\g__fontspec_family_Raleway-Medium_int=\count151
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -835,73 +869,43 @@ ext;"
 . <->"[fonts/raleway/Raleway-Medium]/OT:script=latn;language=DFLT;mapping=tex-t
 ext;+smcp;"
 .................................................
-
-LaTeX Font Warning: Font shape `EU1/HelveticaLight(0)/m/sc' undefined
-(Font)              using `EU1/HelveticaLight(0)/m/n' instead on input line 50.
-
-
-
-LaTeX Font Warning: Font shape `EU1/Lato-Lig(0)/m/sc' undefined
-(Font)              using `EU1/Lato-Lig(0)/m/n' instead on input line 50.
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
-
-)
-\g__fontspec_family_Lato-Bol_int=\count151
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options
-. [Mapping=tex-text,Path = fonts/lato/].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.:
-. <->"[fonts/lato/Lato-Bol]/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
-
-
-LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
-(Font)              using `EU1/Lato-Bol(0)/m/n' instead on input line 52.
-
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 119.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 126.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 119.
+(Font)              size <5> substituted on input line 126.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 119.
+(Font)              size <5> substituted on input line 126.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 119.
+(Font)              <11> on input line 126.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 119.
+(Font)              <7.69997> on input line 126.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 119.
+(Font)              <5.5> on input line 126.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 119.
+(Font)              size <5> substituted on input line 126.
 
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 279
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 283
 .
 (/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 279.
+(Font)              <7> on input line 283.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 279.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 340.
+(Font)              <5> on input line 283.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 354.
  [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 340.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 354.
 
 (./resume_tindall_nathan.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 340.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 340.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 354.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 354.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -910,15 +914,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 340.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 354.
  ) 
 Here is how much of TeX's memory you used:
- 21953 strings out of 493591
- 395405 string characters out of 6143546
- 422189 words of memory out of 5000000
- 25187 multiletter control sequences out of 15000+600000
+ 21956 strings out of 493591
+ 395464 string characters out of 6143546
+ 423424 words of memory out of 5000000
+ 25190 multiletter control sequences out of 15000+600000
  6212 words of font info for 69 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 53i,5n,107p,10463b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,5n,107p,10458b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume_tindall_nathan.pdf (1 page).
