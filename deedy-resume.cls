@@ -9,6 +9,7 @@
 \LoadClass{article}
 
 \usepackage{hyperref} % Required for links
+\usepackage{enumitem}
 
 %----------------------------------------------------------------------------------------
 %	COLORS
@@ -109,7 +110,6 @@ Last Updated on \today % Last Updated text
 {
   \vspace{-\topsep}
   \begin{itemize}
-    \setlength{\leftmargin}{-50pt}
   \setlength{\itemsep}{0pt}
   \setlength{\parskip}{0pt}
   \setlength{\parsep}{0pt}

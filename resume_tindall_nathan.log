@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 JUL 2016 09:27
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  30 JUL 2016 11:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -159,6 +159,14 @@ tly
 )
 \Hy@SectionHShift=\skip43
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip44
+\enit@outerparindent=\dimen107
+\enit@toks=\toks15
+\enit@inbox=\box27
+\enitdp@description=\count99
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -198,37 +206,37 @@ L3 Module: l3tl 2016/03/26 v6465 L3 Token lists
 L3 Module: l3str 2016/03/24 v6441 L3 Strings
 L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
 L3 Module: l3int 2016/03/24 v6441 L3 Integers
-\c_max_int=\count99
-\l_tmpa_int=\count100
-\l_tmpb_int=\count101
-\g_tmpa_int=\count102
-\g_tmpb_int=\count103
+\c_max_int=\count100
+\l_tmpa_int=\count101
+\l_tmpb_int=\count102
+\g_tmpa_int=\count103
+\g_tmpb_int=\count104
 L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
 L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
-\g__prg_map_int=\count104
+\g__prg_map_int=\count105
 L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
 L3 Module: l3token 2016/04/03 v6470 L3 Experimental token manipulation
 L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
 L3 Module: l3msg 2016/03/26 v6464 L3 Messages
 L3 Module: l3file 2016/03/25 v6458 L3 File and I/O operations
-\l_iow_line_count_int=\count105
-\l__iow_target_count_int=\count106
-\l__iow_current_line_int=\count107
-\l__iow_current_word_int=\count108
-\l__iow_current_indentation_int=\count109
+\l_iow_line_count_int=\count106
+\l__iow_target_count_int=\count107
+\l__iow_current_line_int=\count108
+\l__iow_current_word_int=\count109
+\l__iow_current_indentation_int=\count110
 L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
-\c_zero_dim=\dimen107
-\c_max_dim=\dimen108
-\l_tmpa_dim=\dimen109
-\l_tmpb_dim=\dimen110
-\g_tmpa_dim=\dimen111
-\g_tmpb_dim=\dimen112
-\c_zero_skip=\skip44
-\c_max_skip=\skip45
-\l_tmpa_skip=\skip46
-\l_tmpb_skip=\skip47
-\g_tmpa_skip=\skip48
-\g_tmpb_skip=\skip49
+\c_zero_dim=\dimen108
+\c_max_dim=\dimen109
+\l_tmpa_dim=\dimen110
+\l_tmpb_dim=\dimen111
+\g_tmpa_dim=\dimen112
+\g_tmpb_dim=\dimen113
+\c_zero_skip=\skip45
+\c_max_skip=\skip46
+\l_tmpa_skip=\skip47
+\l_tmpb_skip=\skip48
+\g_tmpa_skip=\skip49
+\g_tmpb_skip=\skip50
 \c_zero_muskip=\muskip11
 \c_max_muskip=\muskip12
 \l_tmpa_muskip=\muskip13
@@ -236,88 +244,88 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \g_tmpa_muskip=\muskip15
 \g_tmpb_muskip=\muskip16
 L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
-\g__keyval_level_int=\count110
-\l_keys_choice_int=\count111
+\g__keyval_level_int=\count111
+\l_keys_choice_int=\count112
 L3 Module: l3fp 2016/03/26 v6465 L3 Floating points
-\c__fp_leading_shift_int=\count112
-\c__fp_middle_shift_int=\count113
-\c__fp_trailing_shift_int=\count114
-\c__fp_big_leading_shift_int=\count115
-\c__fp_big_middle_shift_int=\count116
-\c__fp_big_trailing_shift_int=\count117
-\c__fp_Bigg_leading_shift_int=\count118
-\c__fp_Bigg_middle_shift_int=\count119
-\c__fp_Bigg_trailing_shift_int=\count120
+\c__fp_leading_shift_int=\count113
+\c__fp_middle_shift_int=\count114
+\c__fp_trailing_shift_int=\count115
+\c__fp_big_leading_shift_int=\count116
+\c__fp_big_middle_shift_int=\count117
+\c__fp_big_trailing_shift_int=\count118
+\c__fp_Bigg_leading_shift_int=\count119
+\c__fp_Bigg_middle_shift_int=\count120
+\c__fp_Bigg_trailing_shift_int=\count121
 L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
-\c_empty_box=\box27
-\l_tmpa_box=\box28
-\l_tmpb_box=\box29
-\g_tmpa_box=\box30
-\g_tmpb_box=\box31
+\c_empty_box=\box28
+\l_tmpa_box=\box29
+\l_tmpb_box=\box30
+\g_tmpa_box=\box31
+\g_tmpb_box=\box32
 L3 Module: l3coffins 2016/05/17 v6508 L3 Coffin code layer
-\l__coffin_internal_box=\box32
-\l__coffin_internal_dim=\dimen113
-\l__coffin_offset_x_dim=\dimen114
-\l__coffin_offset_y_dim=\dimen115
-\l__coffin_x_dim=\dimen116
-\l__coffin_y_dim=\dimen117
-\l__coffin_x_prime_dim=\dimen118
-\l__coffin_y_prime_dim=\dimen119
-\c_empty_coffin=\box33
-\l__coffin_aligned_coffin=\box34
-\l__coffin_aligned_internal_coffin=\box35
-\l_tmpa_coffin=\box36
-\l_tmpb_coffin=\box37
-\l__coffin_display_coffin=\box38
-\l__coffin_display_coord_coffin=\box39
-\l__coffin_display_pole_coffin=\box40
-\l__coffin_display_offset_dim=\dimen120
-\l__coffin_display_x_dim=\dimen121
-\l__coffin_display_y_dim=\dimen122
+\l__coffin_internal_box=\box33
+\l__coffin_internal_dim=\dimen114
+\l__coffin_offset_x_dim=\dimen115
+\l__coffin_offset_y_dim=\dimen116
+\l__coffin_x_dim=\dimen117
+\l__coffin_y_dim=\dimen118
+\l__coffin_x_prime_dim=\dimen119
+\l__coffin_y_prime_dim=\dimen120
+\c_empty_coffin=\box34
+\l__coffin_aligned_coffin=\box35
+\l__coffin_aligned_internal_coffin=\box36
+\l_tmpa_coffin=\box37
+\l_tmpb_coffin=\box38
+\l__coffin_display_coffin=\box39
+\l__coffin_display_coord_coffin=\box40
+\l__coffin_display_pole_coffin=\box41
+\l__coffin_display_offset_dim=\dimen121
+\l__coffin_display_x_dim=\dimen122
+\l__coffin_display_y_dim=\dimen123
 L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
 L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
 L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen123
-\l__box_bottom_dim=\dimen124
-\l__box_left_dim=\dimen125
-\l__box_right_dim=\dimen126
-\l__box_top_new_dim=\dimen127
-\l__box_bottom_new_dim=\dimen128
-\l__box_left_new_dim=\dimen129
-\l__box_right_new_dim=\dimen130
-\l__box_internal_box=\box41
-\l__coffin_bounding_shift_dim=\dimen131
-\l__coffin_left_corner_dim=\dimen132
-\l__coffin_right_corner_dim=\dimen133
-\l__coffin_bottom_corner_dim=\dimen134
-\l__coffin_top_corner_dim=\dimen135
-\l__coffin_scaled_total_height_dim=\dimen136
-\l__coffin_scaled_width_dim=\dimen137
+\l__box_top_dim=\dimen124
+\l__box_bottom_dim=\dimen125
+\l__box_left_dim=\dimen126
+\l__box_right_dim=\dimen127
+\l__box_top_new_dim=\dimen128
+\l__box_bottom_new_dim=\dimen129
+\l__box_left_new_dim=\dimen130
+\l__box_right_new_dim=\dimen131
+\l__box_internal_box=\box42
+\l__coffin_bounding_shift_dim=\dimen132
+\l__coffin_left_corner_dim=\dimen133
+\l__coffin_right_corner_dim=\dimen134
+\l__coffin_bottom_corner_dim=\dimen135
+\l__coffin_top_corner_dim=\dimen136
+\l__coffin_scaled_total_height_dim=\dimen137
+\l__coffin_scaled_width_dim=\dimen138
 L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2016/03/26 v6465 L3 Experimental driver: xdvipdfmx
-\l__driver_tmp_box=\box42
+\l__driver_tmp_box=\box43
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count121
-\l__xparse_m_args_int=\count122
-\l__xparse_mandatory_args_int=\count123
-\l__xparse_processor_int=\count124
-\l__xparse_v_nesting_int=\count125
+\l__xparse_current_arg_int=\count122
+\l__xparse_m_args_int=\count123
+\l__xparse_mandatory_args_int=\count124
+\l__xparse_processor_int=\count125
+\l__xparse_v_nesting_int=\count126
 )
 Package: fontspec 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
 X
-\l_fontspec_script_int=\count126
-\l_fontspec_language_int=\count127
-\l_fontspec_strnum_int=\count128
-\l__fontspec_tmpa_dim=\dimen138
-\l__fontspec_tmpb_dim=\dimen139
-\l__fontspec_tmpc_dim=\dimen140
+\l_fontspec_script_int=\count127
+\l_fontspec_language_int=\count128
+\l_fontspec_strnum_int=\count129
+\l__fontspec_tmpa_dim=\dimen139
+\l__fontspec_tmpb_dim=\dimen140
+\l__fontspec_tmpc_dim=\dimen141
 \g__file_internal_ior=\read1
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
@@ -344,9 +352,9 @@ LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
 (/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu1lmss.fd
 File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
-\tipaTiiicode=\count129
-\tipasavetokens=\toks15
-\tipachecktokens=\toks16
+\tipaTiiicode=\count130
+\tipasavetokens=\toks16
+\tipachecktokens=\toks17
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
@@ -362,8 +370,8 @@ File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 96.
 )
-\Gin@req@height=\dimen141
-\Gin@req@width=\dimen142
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
 ))
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -470,15 +478,15 @@ Package graphics Info: Driver file: xetex.def on input line 96.
 . 
 . Defining command \DeclareFontsExtensions with sig. 'm' on line 599.
 .................................................
-\l__fontspec_tmp_int=\count130
+\l__fontspec_tmp_int=\count131
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec.cfg)
 LaTeX Info: Redefining \itshape on input line 2705.
 LaTeX Info: Redefining \slshape on input line 2710.
 LaTeX Info: Redefining \scshape on input line 2715.
 LaTeX Info: Redefining \upshape on input line 2720.
-\l__fontspec_em_int=\count131
-\l__fontspec_emdef_int=\count132
+\l__fontspec_em_int=\count132
+\l__fontspec_emdef_int=\count133
 LaTeX Info: Redefining \em on input line 2736.
 LaTeX Info: Redefining \emph on input line 2742.
 LaTeX Info: Redefining \- on input line 2746.
@@ -498,7 +506,7 @@ LaTeX Info: Redefining \- on input line 2746.
 . 
 . Font Helvetica Light does not contain any OpenType `Script' information.
 .................................................
-\g__fontspec_family_HelveticaLight_int=\count133
+\g__fontspec_family_HelveticaLight_int=\count134
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -530,7 +538,7 @@ LaTeX Info: Redefining \- on input line 2746.
 . 
 . Helvetica Neue UltraLight scale = 0.9980949824814238.
 .................................................
-\g__fontspec_family_HelveticaNeueUltraLight_int=\count134
+\g__fontspec_family_HelveticaNeueUltraLight_int=\count135
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -580,19 +588,19 @@ Package: textpos 2014/01/03 1.7j, absolute positioning of text on the page
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 )
-\TP@textbox=\box43
-\TP@holdbox=\box44
-\TPHorizModule=\dimen143
-\TPVertModule=\dimen144
-\TP@margin=\dimen145
-\TP@absmargin=\dimen146
+\TP@textbox=\box44
+\TP@holdbox=\box45
+\TPHorizModule=\dimen144
+\TPVertModule=\dimen145
+\TP@margin=\dimen146
+\TP@absmargin=\dimen147
 
 Grid set 16 x 16 = 38.39343pt x 49.68562pt
-\TPboxrulesize=\dimen147
-\TP@ox=\dimen148
-\TP@oy=\dimen149
-\TP@tbargs=\toks17
-\TP@prevdepth=\dimen150
+\TPboxrulesize=\dimen148
+\TP@ox=\dimen149
+\TP@oy=\dimen150
+\TP@tbargs=\toks18
+\TP@prevdepth=\dimen151
 TextBlockOrigin set to 0pt x 0pt
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/isodate/isodate.sty
 Package: isodate 2010/01/03 v2.30 Print dates with different formats (HH)
@@ -602,7 +610,7 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/substr/substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count135
+\c@su@anzahl=\count136
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/isodate/english.idf
 File: english.idf 2010/01/03 v2.30 Language definitions for isodate package (HH
@@ -610,40 +618,40 @@ File: english.idf 2010/01/03 v2.30 Language definitions for isodate package (HH
 
 Define commands for English date format
 )
-\c@iso@tmpmonth=\count136
-\c@iso@yeartwo=\count137
-\c@iso@slash=\count138
-\c@iso@minus=\count139
-\c@iso@dot=\count140
-\c@iso@@slash=\count141
-\c@iso@@minus=\count142
-\c@iso@@dot=\count143
+\c@iso@tmpmonth=\count137
+\c@iso@yeartwo=\count138
+\c@iso@slash=\count139
+\c@iso@minus=\count140
+\c@iso@dot=\count141
+\c@iso@@slash=\count142
+\c@iso@@minus=\count143
+\c@iso@@dot=\count144
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box45
-\beforetitleunit=\skip50
-\aftertitleunit=\skip51
-\ttl@plus=\dimen151
-\ttl@minus=\dimen152
-\ttl@toksa=\toks18
-\titlewidth=\dimen153
-\titlewidthlast=\dimen154
-\titlewidthfirst=\dimen155
+\ttl@box=\box46
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen152
+\ttl@minus=\dimen153
+\ttl@toksa=\toks19
+\titlewidth=\dimen154
+\titlewidthlast=\dimen155
+\titlewidthfirst=\dimen156
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count144
-\Gm@cntv=\count145
-\c@Gm@tempcnt=\count146
-\Gm@bindingoffset=\dimen156
-\Gm@wd@mp=\dimen157
-\Gm@odd@mp=\dimen158
-\Gm@even@mp=\dimen159
-\Gm@layoutwidth=\dimen160
-\Gm@layoutheight=\dimen161
-\Gm@layouthoffset=\dimen162
-\Gm@layoutvoffset=\dimen163
-\Gm@dimlist=\toks19
+\Gm@cnth=\count145
+\Gm@cntv=\count146
+\c@Gm@tempcnt=\count147
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
+\Gm@dimlist=\toks20
 )
 (./resume_tindall_nathan.aux)
 \openout1 = `resume_tindall_nathan.aux'.
@@ -673,7 +681,7 @@ LaTeX Font Info:    Try loading font information for T3+cmr on input line 27.
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 27.
-\AtBeginShipoutBox=\box46
+\AtBeginShipoutBox=\box47
 Package hyperref Info: Link coloring OFF on input line 27.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -682,7 +690,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count147
+\c@section@level=\count148
 )
 LaTeX Info: Redefining \ref on input line 27.
 LaTeX Info: Redefining \pageref on input line 27.
@@ -796,7 +804,7 @@ isodate: babel.sty, (n)german.sty have not been loaded
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\g__fontspec_family_Lato-Hai_int=\count148
+\g__fontspec_family_Lato-Hai_int=\count149
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -808,7 +816,7 @@ isodate: babel.sty, (n)german.sty have not been loaded
 . <->"[fonts/lato/Lato-Hai]/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-\g__fontspec_family_Lato-Lig_int=\count149
+\g__fontspec_family_Lato-Lig_int=\count150
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -833,7 +841,7 @@ LaTeX Font Warning: Font shape `EU1/Lato-Lig(0)/m/sc' undefined
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 )
-\g__fontspec_family_Lato-Bol_int=\count150
+\g__fontspec_family_Lato-Bol_int=\count151
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -854,7 +862,7 @@ LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/m/sc' undefined
 LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
 (Font)              using `EU1/Lato-Bol(0)/m/n' instead on input line 59.
 
-\g__fontspec_family_Raleway-Medium_int=\count151
+\g__fontspec_family_Raleway-Medium_int=\count152
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -917,12 +925,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 354.
  ) 
 Here is how much of TeX's memory you used:
- 21956 strings out of 493591
- 395464 string characters out of 6143546
- 423424 words of memory out of 5000000
- 25190 multiletter control sequences out of 15000+600000
+ 22229 strings out of 493591
+ 400099 string characters out of 6143546
+ 429529 words of memory out of 5000000
+ 25459 multiletter control sequences out of 15000+600000
  6212 words of font info for 69 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 53i,5n,107p,10458b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,5n,107p,10458b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume_tindall_nathan.pdf (1 page).
